@@ -4,7 +4,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:24253/api/todoo",
+      "applicationUrl": "http://localhost:24253/api/todo",
       "sslPort": 0
     }
   },
@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/Todoo",
+      "launchUrl": "api/Todo",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,7 +20,7 @@
     "TodoApi": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/Todoo",
+      "launchUrl": "api/Todo",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
